@@ -1,0 +1,938 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"list-",
+				"list-style"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"ticket",
+				"ticketPrice"
+			],
+			[
+				"ticke",
+				"ticketPrice"
+			],
+			[
+				"to",
+				"toLowerCase"
+			],
+			[
+				"tick",
+				"ticketPrice"
+			],
+			[
+				"first",
+				"firstLetter"
+			],
+			[
+				"fizz",
+				"fizzBuzz"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"num",
+				"num"
+			],
+			[
+				"number",
+				"numberGrade"
+			],
+			[
+				"user",
+				"userAge"
+			],
+			[
+				"food",
+				"foodRankNum"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"your",
+				"yourFriends"
+			],
+			[
+				"my",
+				"myFriends"
+			],
+			[
+				"friend",
+				"friendsArray"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"fon",
+				"font-weight"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/Apple/Library/Application Support/Sublime Text 3/Packages/CSScomb/README.md",
+			"settings":
+			{
+				"buffer_size": 1188,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 1031,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<html>\n  \n</html>sds",
+			"file": "/Users/Apple/ga/wdi/thunder-talks/index.html",
+			"file_size": 0,
+			"file_write_time": 130938123270000000,
+			"settings":
+			{
+				"buffer_size": 20,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "save",
+		"selected_items":
+		[
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package setti",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"open",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"insal",
+				"Package Control: Install Package"
+			],
+			[
+				"op",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git push b",
+				"Git: Push Current Branch"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git comm	",
+				"Git: Commit"
+			],
+			[
+				"git blame",
+				"Git: Blame"
+			],
+			[
+				"git commi",
+				"Git: Commit"
+			],
+			[
+				"file op",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"buil",
+				"Build With: sublimerepl_build_system_hack"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add All"
+			],
+			[
+				"file open",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"git a",
+				"Git: Add All"
+			],
+			[
+				"File O",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"git com	",
+				"Git: Commit"
+			],
+			[
+				"Colo",
+				"Color Picker"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"file opp",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"gi",
+				"Git: Blame"
+			],
+			[
+				"gitgu",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"git di",
+				"Git: Diff Current File"
+			],
+			[
+				"git",
+				"Git: Blame"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"file: open",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"file: Op",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"file:l",
+				"File: Locate"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 583.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Apple/ga/wdi/thunder-talks",
+		"/Users/Apple/ga/wdi/thunder-talks/sublime-hacks"
+	],
+	"file_history":
+	[
+		"/Users/Apple/Library/Application Support/Sublime Text 3/Packages/CSScomb/Default.sublime-keymap",
+		"/Users/Apple/ga/wdi/thunder-talks/index.html",
+		"/Users/Apple/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/Apple/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Apple/ga/wdi/king0120.github.io/style.css",
+		"/Users/Apple/ga/wdi/king0120.github.io/jkanimations.css",
+		"/Users/Apple/ga/wdi/exercises/css-selectors/fashion_blog_exercise/fashion_blog_no_markup_starter/css/style.css",
+		"/Users/Apple/ga/wdi/king0120.github.io/animate.css",
+		"/Users/Apple/ga/wdi/exercises/css-selectors/fashion_blog_exercise/fashion_blog_no_markup_starter/animate.css",
+		"/Users/Apple/ga/wdi/exercises/css-selectors/fashion_blog_exercise/fashion_blog_no_markup_starter/fashion_blog_result.png",
+		"/Users/Apple/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/Apple/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Apple/ga/wdi/exercises/css-boxmodel/style.css",
+		"/Users/Apple/ga/wdi/exercises/css-boxmodel/css/style.css",
+		"/Users/Apple/ga/wdi/sandbox/style.css",
+		"/Users/Apple/.bashrc",
+		"/Users/Apple/.bash_profile",
+		"/Users/Apple/ga/wdi/exercises/git-practice/bash_profile",
+		"/Users/Apple/.bash_it.sh",
+		"/Users/Apple/bash_profile.bak",
+		"/Users/Apple/ga/wdi/lessons/local-and-remote-git/readme.md",
+		"/Users/Apple/ga/wdi/lessons/local-and-remote-git/intro-to-git-and-github.md",
+		"/Users/Apple/ga/wdi/lessons/local-and-remote-git/github.md",
+		"/Users/Apple/ga/wdi/lessons/local-and-remote-git/git_tips_and_tricks.md",
+		"/Users/Apple/ga/wdi/lessons/local-and-remote-git/git_resources.md",
+		"/Users/Apple/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Apple/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/Apple/Library/Application Support/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/Users/Apple/ga/wdi/sublime/exercises/math.txt",
+		"/Users/Apple/Library/Application Support/Sublime Text 3/Packages/GitGutter/GitGutter.sublime-settings",
+		"/Users/Apple/ga/wdi/html-dom/moonrise_kingdom/Package Control Messages",
+		"/Users/Apple/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/Apple/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/Apple/ga/wdi/html-dom/moonrise_kingdom/complete/sam_registration.jpg",
+		"/Users/Apple/ga/wdi/html-dom/busy_hands_html_dom_lab/busy-hands-html-css-lab/readme.md",
+		"/Users/Apple/ga/wdi/html-dom/busy_hands_html_dom_lab/busy-hands-html-css-lab/css/style.css",
+		"/Users/Apple/ga/wdi/html-dom/busy_hands_html_dom_lab/busy-hands-html-css-lab/index.html",
+		"/Users/Apple/ga/wdi/sublime/README.md",
+		"/Users/Apple/ga/wdi/sublime/exercises/superheroes.txt",
+		"/Users/Apple/ga/wdi/sublime/exercises/fruit.txt",
+		"/Users/Apple/ga/wdi/sublime/exercises/eggs_and_ham.txt",
+		"/Users/Apple/ga/wdi/sublime/sample.txt"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<current file>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"installed",
+			");})\n",
+			"left",
+			"span",
+			"p",
+			"showLin",
+			"class",
+			"slideInLeft",
+			"slideInUp",
+			"border",
+			";\n",
+			"position: absolute;\n  top: 50%;\n",
+			"div",
+			"></",
+			"div",
+			"hing",
+			"jello",
+			"hing",
+			"parseInt(grade)",
+			"break",
+			";\n",
+			"console.log(",
+			"grade",
+			"Grade",
+			"grade",
+			"' i",
+			".\";\n",
+			"farenheit",
+			"Farenheit",
+			"farenheit",
+			"id",
+			"time",
+			"load",
+			"styling",
+			"Styling",
+			"styling",
+			"STYLING",
+			"styling",
+			"from",
+			"Sam",
+			"None",
+			"background",
+			"Sam",
+			"Information",
+			"li",
+			"</li",
+			"six",
+			"five",
+			"four",
+			"divided",
+			"times",
+			"minus",
+			"three",
+			"equals",
+			"plus",
+			"two",
+			"one",
+			" ",
+			"\n'",
+			" ",
+			"three",
+			"equals",
+			". ",
+			"I ",
+			"I",
+			"green",
+			"Sam-i-am",
+			"sam",
+			"i ",
+			"I",
+			"i",
+			"sam-I-am",
+			"sam",
+			"i",
+			"BLUE",
+			"',",
+			"'apple',",
+			"\n'",
+			"P",
+			"DO"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Sam-I-Am",
+			"Sam",
+			"I ",
+			"i",
+			"Sam-i-am",
+			"I",
+			"green"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/Apple/Library/Application Support/Sublime Text 3/Packages/CSScomb/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1188,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1132,
+								1143
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/brogrammer.tmTheme",
+							"syntax": "Packages/Markdown Extended/Syntaxes/Markdown Extended.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1031,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								667,
+								667
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/brogrammer.tmTheme",
+							"syntax": "Packages/Markdown Extended/Syntaxes/Markdown Extended.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "/Users/Apple/ga/wdi/thunder-talks/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20,
+								20
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/brogrammer.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 146.0
+	},
+	"pinned_build_system": "",
+	"project": "Sublime-Hacks.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"",
+				"style.css"
+			],
+			[
+				"csssty",
+				"busy-hands-html-css-lab/css/style.css"
+			],
+			[
+				"p",
+				"Package Control Messages"
+			],
+			[
+				"complete/css/main.",
+				"complete/css/main.css"
+			],
+			[
+				"sup",
+				"exercises/superheroes.txt"
+			],
+			[
+				"su",
+				"exercises/superheroes.txt"
+			],
+			[
+				"re",
+				"README.md"
+			],
+			[
+				"math",
+				"exercises/math.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/ga/wdi/thunder-talks/sublime-hacks/github.io page.sublime-project"
+			],
+			[
+				"gi",
+				"~/ga/wdi/thunder-talks/sublime-hacks/github.io page.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 191.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
