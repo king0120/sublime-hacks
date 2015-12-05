@@ -1,7 +1,7 @@
 # Speed Up Your Workflow <br/> and Live the Easy Life
 ## Sublime Shortcuts and Package Managers
 
-###Top 10 Sublime Shortcuts:
+###Shortcuts: Step One to Becoming a Sublime Ninja
 
 | **Shortcut Command**  | **Shortcut Function** |  |
 | ------------- | ----------------- | ------------------- |
@@ -28,15 +28,29 @@
 ```
 ⌘ + P Will open any file in your directory.  You can chain this with the following symbols to make your search even more accurate!
 
-
 # : Fuzzy Matching.  Will find by tag name, class name, etc.
 
 : : Line Matching.
 
 @ : Symbol Search. Very useful when navigating css
 ```
----
 
+###Multi-Select:
+Multi-select makes it easier to edit files, speeds up your work, and looks really cool.
+
+There are multiple ways to use multi select.
+
+  1. ⌃ + ⇧ + Up/Down: Adds a cursor directly above or below your current line.
+  2. ⌃ + D: Selects the next instance of the code you have highlighted.  Repeat multiple times to select more.
+  3. ⌘ + ⌃ + G: Selects ALL instances of the code you have selected.
+  4. ⌥ + Click: Allows you to drag your mouse across the lines you add a cursor.
+
+When you finish editing in multi-select, just press Esc and you are back to normal, boring, one cursor editing.
+
+
+
+---
+##Sublime Package MVPs
 
 | **Package Name**  | **Package Use** | Link |
 | ------------- | ----------------- | ------------------- |
@@ -50,7 +64,7 @@
 
 <br>
 <br>
-If you are curious about a particular package, check out https://packagecontrol.io/
+If you are curious about a particular package, check out [packagecontrol.io](https://packagecontrol.io/)
 
 
 ===
@@ -80,3 +94,10 @@ If you are curious about a particular package, check out https://packagecontrol.
   7. Press ⌘ + B in the file you want to run.
   8. ???
   9. Profit!
+
+===
+
+##Resources and Extra Links
+
+===
+  +[ShortcutFoo! Memorize keyboard commands by fighing ninjas!](https://www.shortcutfoo.com/app/dojos/sublime-text-3-mac)
