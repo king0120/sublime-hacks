@@ -25,8 +25,7 @@
 
 ###⌘ + P Lifehacks:
 ```
-⌘ + P Will open any file in your directory.  You can chain this
-with the following symbols to make your search even more accurate!
+⌘ + P Will open any file in your directory.  You can chain this with the following symbols to make your search even more accurate!
 
 
 # : Fuzzy Matching.  Will find by tag name, class name, etc.
@@ -40,15 +39,15 @@ with the following symbols to make your search even more accurate!
 
 | **Package Name**  | **Package Use** | Link |
 | ------------- | ----------------- | ------------------- |
-|  Emmet   | Emmet can make your HTML and CSS workflow lightning fast! Over Has over 1.43 million users! | http://emmet.io/  http://docs.emmet.io/cheat-sheet/ |
-|  AdvancedNewFile  | Allows faster file creation within Sublime Text | https://github.com/skuroda/Sublime-AdvancedNewFile |
-|  Color Highlighter  | Adds unobtrusive preview colors and color picker. Open Color Picker: ⇧+⌃+C | https://packagecontrol.io/packages/Color%20Highlighter |
-|  Git & Gitgutter  | Adds git functionality within Sublime and shows changes to most recent commit in real time. | https://github.com/kemayo/sublime-text-git    https://github.com/jisaacks/GitGutter |
-|  SideBar Enhancements  | Expands your options in the sidebar and allows you to easily open files within the browser. | https://github.com/titoBouzout/SideBarEnhancements |
-|  Sublime Linter  | Analyzes your code for potential error.  Available for CSS, Javascript, Ruby, jQuery, and more! | http://www.sublimelinter.com/en/latest/about.html |
-|  Prettify  | Automatically indents your code to make it more readable. | https://github.com/victorporof/Sublime-HTMLPrettify |
+|  Emmet   | Emmet can make your HTML and CSS workflow lightning fast! Over Has over 1.43 million users! | [Emmet Website](http://emmet.io/)  [Emmet Cheatsheet](http://docs.emmet.io/cheat-sheet/) |
+|  AdvancedNewFile  | Allows faster file creation within Sublime Text | [AdvancedNewFile Repo](https://github.com/skuroda/Sublime-AdvancedNewFile) |
+|  Color Highlighter  | Adds unobtrusive preview colors and color picker. Open Color Picker: ⇧+⌃+C | [Color Highlighter Repo](https://packagecontrol.io/packages/Color%20Highlighter) |
+|  Git & Gitgutter  | Adds git functionality within Sublime and shows changes to most recent commit in real time. | [Git for Sublime](https://github.com/kemayo/sublime-text-git) [GitGutter](https://github.com/jisaacks/GitGutter) |
+|  SideBar Enhancements  | Expands your options in the sidebar and allows you to easily open files within the browser. | [SideBar Repo](https://github.com/titoBouzout/SideBarEnhancements) |
+|  Sublime Linter  | Analyzes your code for potential error.  Available for CSS, Javascript, Ruby, jQuery, and more! | [Sublime Linter](http://www.sublimelinter.com/en/latest/about.html) |
+|  Prettify  | Automatically indents your code to make it more readable. | [Prettify Repo](https://github.com/victorporof/Sublime-HTMLPrettify) |
 
-If you are curious about a particular package, check out https://packagecontrol.io/packages/SideBarEnhancements
+If you are curious about a particular package, check out https://packagecontrol.io/
 
 
 
