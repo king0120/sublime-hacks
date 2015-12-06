@@ -66,6 +66,9 @@ When you finish editing in multi-select, just press **Esc** and you are back to 
 ---
 ##Sublime Package MVPs
 
+###First you must have Package Control installed. Follow this link for installation instructions: https://packagecontrol.io/installation
+
+
 | **Package Name**  | **Package Use** | Link |
 | ------------- | ----------------- | ------------------- |
 |  Emmet   | Emmet can make your HTML and CSS workflow lightning fast! <br/>Over Has over 1.43 million users! | [Emmet Website](http://emmet.io/) <br/> [Emmet Cheatsheet](http://docs.emmet.io/cheat-sheet/) |
@@ -119,35 +122,6 @@ If you are curious about a particular package, check out [packagecontrol.io](htt
       <p></p>
     </div>
   ```
-
-
-===
-###Advanced:
-####Running Javascript inside of Sublime Text 3 (for OSX):
-  1. Make sure you have node installed
-  2. Go to Tools --> Build System --> New Build System
-  3. A file named untitled.sublime-build should open and look like this
-
-    ```JSON
-    {
-      "shell_cmd": "make"
-    }
-    ```
-
-  4. Insert the following code:
-
-    ```JSON
-    {
-      "shell_cmd": "node ${file}",
-      "selector" : "source.js"
-    }
-    ```
-
-  5. Save the file as Node.sublime-build
-  6. Go back to Tools --> Build System and select Node.
-  7. Press ⌘ + B in the file you want to run.
-  8. **?????**
-  9. Profit!
 
 ===
 
