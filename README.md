@@ -22,19 +22,20 @@
 | ⌘ + ⇧ + P    | Open Command Palette| Easy Access to Installed Packages |
 | ⌘ + P         | File Switching      | Searches your open directory.  See below for even more functionality. |
 | ⌘ + L  | Select Entire Line     | Can repeat command to select more lines.   |
-| ⌃ + Tab or ⌃ + ⇧ + Tab  | Select Next/Previous Tab      | Easily move across multiple files |
 | ⌘ + [ or ⌘ + ]  | Indent forward or backward     | Allows easy management and organization of your code |
+| ⌘ + /  | Comment Out Code     | Easily comment and uncomment multiple lines of code.   |
 | ⌘ + ⌥ + 2  | Split into 2 windows <br/> (Can open up to 4 windows)|  ⌃ + Window Number will move cursor to that window                   |
+| ⌃ + Tab or ⌃ + ⇧ + Tab  | Select Next/Previous Tab      | Easily move across multiple files |
 | ⌘ + ⌃ + Up/Down:  | Move selection up/down      | Can move large code chunks and paragraphs without continuously copy/pasting |
 | ⌃ + ⇧ + Up/Down  | Select line above below (Multi-select)     | Multi-select is your best friend.  Use it often to really speed things up! |
-| ⌃ + ⌘ + G  | Select All Instances of Selection      | Effortlessly change class, tag, and id names |
+| ⌘ + ⌃ +  G  | Select All Instances of Selection      | Effortlessly change class, tag, and id names |
 | ⌘ + K, ⌘ + V  | Paste History | Lets you keep and choose from multiple items in your clipboard. |
 | ⌘ + K, ⌘ + B  | Hide Side Bar | Gives more space to see your code.  |
 
 
 
 
-###⌘ + P Hack:
+###⌘ + P PowerUser:
 ```
 ⌘ + P Will open any file in your directory.  You can chain this with the following symbols to make your search even more accurate!
 
