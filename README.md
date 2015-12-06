@@ -9,6 +9,14 @@
 
 ###Shortcuts: Step One to Becoming a Sublime Ninja
 
+<img align="right" height="300px" src="dojocat.jpg" alt="">
+
+####*Legend:*
+  * ⌘: Command Key
+  * ⇧: Shift Key
+  * ⌃: Control Key
+  * ⌥: Alt Key
+
 | **Shortcut Command**  | **Shortcut Function** |  |
 | ------------- | ----------------- | ------------------- |
 | ⌘ + ⇧ + P    | Open Command Palette| Easy Access to Installed Packages |
@@ -24,11 +32,7 @@
 | ⌘ + K, ⌘ + B  | Hide Side Bar | Gives more space to see your code.  |
 
 
-####*Legend:*
-  * ⌘: Command Key
-  * ⇧: Shift Key
-  * ⌃: Control Key
-  * ⌥: Alt Key
+
 
 ###⌘ + P Hack:
 ```
@@ -43,6 +47,9 @@
 
 ###Multi-Select:
 Multi-select makes it easier to edit files, speeds up your work, and looks *really* cool.
+
+<img src="sublimegif.gif">
+<p style="color:grey" align="right">Source: Tommy Marshall. Viget.com</p>
 
 There are multiple ways to use multi select.
 
