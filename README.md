@@ -153,4 +153,8 @@ If you are curious about a particular package, check out [packagecontrol.io](htt
 ##Resources and Extra Links
 
 ===
+  + [Official Sublime Text Keyboard Shortcuts (OSX)](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html)
+  + [Official Sublime Text Keyboard Shortcuts (PC/Linux)](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html)
   + [ShortcutFoo! Memorize keyboard commands by fighing ninjas!](https://www.shortcutfoo.com/app/dojos/sublime-text-3-mac)
+  + [Package Control: Browse New and Popular Packages](https://packagecontrol.io/)
+  + [Emmet Cheatsheet](http://docs.emmet.io/cheat-sheet/)
