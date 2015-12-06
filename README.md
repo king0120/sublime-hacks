@@ -80,10 +80,10 @@ If you are curious about a particular package, check out [packagecontrol.io](htt
 
   1. Write a tag name (ex. div, ul, or p) or class name (.container, .logo, or .blog)
   2. Chain together tags and classes with the following characters.
-    1. > :Child Element
-    2. + :Sibling Element
-    3. ^ :Move Up
-    4. * :Create Multiple Items
+    1. **>** :Child Element
+    2. **+** :Sibling Element
+    3. **^** :Move Up
+    4. ***** :Create Multiple Items
   3. After you finish writing out your chain, press Tab.
   4. :raised_hands: PRAISE EMMET :raised_hands:
 
