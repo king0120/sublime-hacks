@@ -9,7 +9,7 @@
 
 ###Shortcuts: Step One to Becoming a Sublime Ninja
 
-<img align="right" height="300px" src="dojocat.jpg" alt="">
+<img align="right" height="300px" src="Images/dojocat.jpg" alt="">
 
 ####*Legend:*
   * ⌘: Command Key
@@ -48,7 +48,7 @@
 ###Multi-Select:
 Multi-select makes it easier to edit files, speeds up your work, and looks *really* cool.
 
-<img src="sublimegif.gif">
+<img src="Images/sublimegif.gif">
 <p style="color:grey" align="right">Source: Tommy Marshall. Viget.com</p>
 
 There are multiple ways to use multi select.
@@ -81,7 +81,7 @@ If you are curious about a particular package, check out [packagecontrol.io](htt
 
 ---
 ##Emmet: Everything is AWESOME!
-<img align="right"  height="250px" src="emmet.jpg" alt="">
+<img align="right"  height="250px" src="Images/emmet.jpg" alt="">
 
   Emmet is one of the biggest timesaves available to web developers today.  <br>  This package allows users to chain together tag names, class names, and special characters to create markup in just a couple easy steps!
 
