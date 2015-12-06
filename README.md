@@ -36,13 +36,13 @@
 
 ###⌘ + P Hack:
 ```
-**⌘ + P** Will open any file in your directory.  You can chain this with the following symbols to make your search even more accurate!
+⌘ + P Will open any file in your directory.  You can chain this with the following symbols to make your search even more accurate!
 
-**#** : Fuzzy Matching.  Will find by tag name, class name, etc.
+# : Fuzzy Matching.  Will find by tag name, class name, etc.
 
-**:** : Line Matching.
+: : Line Matching.
 
-**@** : Symbol Search. Very useful when navigating css
+@ : Symbol Search. Very useful when navigating css
 ```
 
 ###Multi-Select:
