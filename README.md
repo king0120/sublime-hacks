@@ -1,5 +1,11 @@
 # Speed Up Your Workflow <br/> and Live the Easy Life
+
+
 ## Sublime Shortcuts and Package Managers
+
+
+
+
 
 ###Shortcuts: Step One to Becoming a Sublime Ninja
 
@@ -36,7 +42,7 @@
 ```
 
 ###Multi-Select:
-Multi-select makes it easier to edit files, speeds up your work, and looks really cool.
+Multi-select makes it easier to edit files, speeds up your work, and looks *really* cool.
 
 There are multiple ways to use multi select.
 
@@ -66,6 +72,46 @@ When you finish editing in multi-select, just press Esc and you are back to norm
 <br>
 If you are curious about a particular package, check out [packagecontrol.io](https://packagecontrol.io/)
 
+---
+##Emmet: Everything is AWESOME!
+<img align="right"  height="250px" src="emmet.jpg" alt="">
+
+  Emmet is one of the biggest timesaves available to web developers today.  <br>  This package allows users to chain together tag names, class names, and special characters to create markup in just a couple easy steps!
+
+  1. Write a tag name (ex. div, ul, or p) or class name (.container, .logo, or .blog)
+  2. Chain together tags and classes with the following characters.
+    1. > :Child Element
+    2. + :Sibling Element
+    3. ^ :Move Up
+    4. * :Create Multiple Items
+  3. After you finish writing out your chain, press Tab.
+  4. !!!!!!!
+
+
+  For example:
+  This:
+  ```
+    div.container>div+p*3+ul>li*6^p
+  ```
+  Becomes this:
+  ```HTML
+    <div class="container">
+      <div></div>
+      <p></p>
+      <p></p>
+      <p></p>
+      <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+      </ul>
+      <p></p>
+    </div>
+  ```
+
 
 ===
 ###Advanced:
@@ -92,7 +138,7 @@ If you are curious about a particular package, check out [packagecontrol.io](htt
   5. Save the file as Node.sublime-build
   6. Go back to Tools --> Build System and select Node.
   7. Press ⌘ + B in the file you want to run.
-  8. ???
+  8. **?????**
   9. Profit!
 
 ===
@@ -100,4 +146,4 @@ If you are curious about a particular package, check out [packagecontrol.io](htt
 ##Resources and Extra Links
 
 ===
-  +[ShortcutFoo! Memorize keyboard commands by fighing ninjas!](https://www.shortcutfoo.com/app/dojos/sublime-text-3-mac)
+  + [ShortcutFoo! Memorize keyboard commands by fighing ninjas!](https://www.shortcutfoo.com/app/dojos/sublime-text-3-mac)
