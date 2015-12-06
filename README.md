@@ -85,7 +85,7 @@ If you are curious about a particular package, check out [packagecontrol.io](htt
     3. ^ :Move Up
     4. * :Create Multiple Items
   3. After you finish writing out your chain, press Tab.
-  4. !!!!!!!
+  4. :raised_hands: PRAISE EMMET :raised_hands:
 
 
   For example:
