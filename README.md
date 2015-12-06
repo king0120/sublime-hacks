@@ -24,7 +24,7 @@
 | ⌘ + L  | Select Entire Line     | Can repeat command to select more lines.   |
 | ⌃ + Tab or ⌃ + ⇧ + Tab  | Select Next/Previous Tab      | Easily move across multiple files |
 | ⌘ + [ or ⌘ + ]  | Indent forward or backward     | Allows easy management and organization of your code |
-| ⌘ + ⌥ + 2  | Split into 2 windows <br/> (Can open up to 4 windows|  ⌃ + Window Number will move cursor to that window                   |
+| ⌘ + ⌥ + 2  | Split into 2 windows <br/> (Can open up to 4 windows)|  ⌃ + Window Number will move cursor to that window                   |
 | ⌘ + ⌃ + Up/Down:  | Move selection up/down      | Can move large code chunks and paragraphs without continuously copy/pasting |
 | ⌃ + ⇧ + Up/Down  | Select line above below (Multi-select)     | Multi-select is your best friend.  Use it often to really speed things up! |
 | ⌃ + ⌘ + G  | Select All Instances of Selection      | Effortlessly change class, tag, and id names |
@@ -36,13 +36,13 @@
 
 ###⌘ + P Hack:
 ```
-⌘ + P Will open any file in your directory.  You can chain this with the following symbols to make your search even more accurate!
+**⌘ + P** Will open any file in your directory.  You can chain this with the following symbols to make your search even more accurate!
 
-# : Fuzzy Matching.  Will find by tag name, class name, etc.
+**#** : Fuzzy Matching.  Will find by tag name, class name, etc.
 
-: : Line Matching.
+**:** : Line Matching.
 
-@ : Symbol Search. Very useful when navigating css
+**@** : Symbol Search. Very useful when navigating css
 ```
 
 ###Multi-Select:
@@ -53,12 +53,12 @@ Multi-select makes it easier to edit files, speeds up your work, and looks *real
 
 There are multiple ways to use multi select.
 
-  1. ⌃ + ⇧ + Up/Down: Adds a cursor directly above or below your current line.
-  2. ⌃ + D: Selects the next instance of the code you have highlighted.  Repeat multiple times to select more.
-  3. ⌘ + ⌃ + G: Selects ALL instances of the code you have selected.
-  4. ⌥ + Click: Allows you to drag your mouse across the lines you add a cursor.
+  1. **⌃ + ⇧ + Up/Down:** Adds a cursor directly above or below your current line.
+  2. **⌃ + D:** Selects the next instance of the code you have highlighted.  Repeat multiple times to select more.
+  3. **⌘ + ⌃ + G:** Selects ALL instances of the code you have selected.
+  4. **⌥ + Click:** Allows you to drag your mouse across the lines you add a cursor.
 
-When you finish editing in multi-select, just press Esc and you are back to normal, boring, one cursor editing.
+When you finish editing in multi-select, just press **Esc** and you are back to normal, boring, one cursor editing.
 
 
 
