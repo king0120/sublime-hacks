@@ -7,11 +7,11 @@
 
 
 
-###Shortcuts: Step One to Becoming a Sublime Ninja
+### Shortcuts: Step One to Becoming a Sublime Ninja
 
 <img align="right" height="300px" src="Images/dojocat.jpg" alt="">
 
-####*Legend:*
+#### *Legend:*
   * ⌘: Command Key
   * ⇧: Shift Key
   * ⌃: Control Key
@@ -35,7 +35,7 @@
 
 
 
-###⌘ + P PowerUser:
+### ⌘ + P PowerUser:
 ```
 ⌘ + P Will open any file in your directory.  You can chain this with the following symbols to make your search even more accurate!
 
@@ -46,7 +46,7 @@
 @ : Symbol Search. Very useful when navigating css
 ```
 
-###Multi-Select:
+### Multi-Select:
 Multi-select makes it easier to edit files, speeds up your work, and looks *really* cool.
 
 <img src="Images/sublimegif.gif">
@@ -64,9 +64,9 @@ When you finish editing in multi-select, just press **Esc** and you are back to 
 
 
 ---
-##Sublime Package MVPs
+## Sublime Package MVPs
 
-###First you must have Package Control installed. Follow this link for installation instructions: https://packagecontrol.io/installation
+### First you must have Package Control installed. Follow this link for installation instructions: https://packagecontrol.io/installation
 
 
 | **Package Name**  | **Package Use** | Link |
@@ -84,7 +84,7 @@ When you finish editing in multi-select, just press **Esc** and you are back to 
 If you are curious about a particular package, check out [packagecontrol.io](https://packagecontrol.io/)
 
 ---
-##Emmet: Everything is AWESOME!
+## Emmet: Everything is AWESOME!
 <img align="right"  height="250px" src="Images/emmet.jpg" alt="">
 
   Emmet is one of the biggest timesaves available to web developers today.  <br>  This package allows users to chain together tag names, class names, and special characters to create markup in just a couple easy steps!
@@ -125,7 +125,7 @@ If you are curious about a particular package, check out [packagecontrol.io](htt
 
 ===
 
-##Resources and Extra Links
+## Resources and Extra Links
 
 ===
   + [Official Sublime Text Keyboard Shortcuts (OSX)](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html)
